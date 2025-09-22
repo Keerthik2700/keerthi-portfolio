@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/keerthi-portfolio/static/css/main.a1de9759.css",
+    "main.js": "/keerthi-portfolio/static/js/main.5f330e36.js",
+    "static/js/453.15b13c7a.chunk.js": "/keerthi-portfolio/static/js/453.15b13c7a.chunk.js",
+    "index.html": "/keerthi-portfolio/index.html",
+    "main.a1de9759.css.map": "/keerthi-portfolio/static/css/main.a1de9759.css.map",
+    "main.5f330e36.js.map": "/keerthi-portfolio/static/js/main.5f330e36.js.map",
+    "453.15b13c7a.chunk.js.map": "/keerthi-portfolio/static/js/453.15b13c7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1de9759.css",
+    "static/js/main.5f330e36.js"
+  ]
+}
