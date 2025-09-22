@@ -10,7 +10,7 @@ const profile = {
   email: "keerthik2700@gmail.com",
   github: "https://github.com/Keerthik2700",
   linkedin: "https://linkedin.com/in/keerthi-kumar-b-774391187",
-  resume: "/Keerthi_Resume.pdf", // Put your resume in public folder
+  resume: "https://drive.google.com/file/d/1Xq4aR11jgAuX69XKccfa84405etzf-54/view?usp=drive_link",
 };
 
 // ===== Skills =====
