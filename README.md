@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+# Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my personal portfolio website built using **React.js** and **Tailwind CSS**.  
+It is meant to showcase my **profile summary, skills, work experience, education, and selected certifications** in one place.  
+The project also helped me practice React and Tailwind, and learn how to deploy a React project publicly.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Live Demo
+[View Portfolio on GitHub Pages](https://keerthik2700.github.io/keerthi-portfolio/)
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Project Overview
+The portfolio includes:
+- A fixed **header** with navigation links.  
+- A **hero section** with my role, location, and contact information.  
+- A detailed **profile summary** highlighting my frontend, backend, cloud, and CS fundamentals.  
+- A **skills section** with a wide set of technical skills.  
+- An **experience section** describing both my full-time and internship roles.  
+- An **education section** including Wilmington University and New Horizon College of Engineering (affiliated to VTU).  
+- A **certifications section** with links to selected certificates.  
+- A **footer** with links to GitHub, LinkedIn, and Email.  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## Tech Stack
+- React.js  
+- Tailwind CSS  
+- React Icons (for header/footer icons)  
+- Git + GitHub (version control)  
+- GitHub Pages (deployment)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## How I Built It
+1. Created the React app using `create-react-app`.  
+2. Installed and configured **Tailwind CSS**.  
+3. Built the sections inside `App.js`: header, hero, profile summary, skills, experience, education, certifications, footer.  
+4. Styled using Tailwind utilities (flexbox, grid, gradients, shadows, hover effects).  
+5. Deployed to **GitHub Pages** using `gh-pages`.  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## What I Learned
+- Setting up Tailwind CSS in a React project.  
+- Creating a responsive layout using Tailwind’s grid and flex utilities.  
+- Using React hooks (`useState`, `useEffect`) for UI interactions.  
+- Writing a clear project README.  
+- Deploying a React app to GitHub Pages.  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## Selected Certifications
+- [McKinsey Forward Program](https://www.credly.com/badges/e7b9c6e4-7c97-4750-88fc-906c42c914c1/public_url)  
+- [IBM AI Fundamentals](https://www.credly.com/badges/24a57b06-591b-4e17-a020-1e9b480a3486/public_url)  
+- [IBM Data Fundamentals](https://www.credly.com/badges/b7038112-1d6d-4bed-8ac0-aa7bacf784ed/public_url)  
+- [React.js Essential Training](https://www.linkedin.com/learning/certificates/06718f3822d91d4451b46dcdb3bca388943138d700ea3bdf0f44619ef539c042?trk=share_certificate)  
+- [React State Management](https://www.linkedin.com/learning/certificates/1134ca7d3e155d3140a6ad230c94f5e3a7166a79dcad22713b529f8d6ad84f25?trk=share_certificate)  
+- [React Router](https://www.linkedin.com/learning/certificates/4c850a49882bcc996fd3aafcfab3df98e7c9ac843fc49baf744fb8c5687193ad?trk=share_certificate)  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contact
+**Email:** [keerthikumarbe@gmail.com](mailto:keerthikumarbe@gmail.com)  
+**LinkedIn:** [linkedin.com/in/keerthikumarb](https://linkedin.com/in/keerthikumarb)  
+**GitHub:** [github.com/Keerthik2700](https://github.com/Keerthik2700)  
