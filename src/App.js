@@ -66,7 +66,7 @@ export default function App() {
               <h2 className="text-5xl font-extrabold bg-gradient-to-r from-indigo-400 to-purple-500 bg-clip-text text-transparent">
                 Software Developer
               </h2>
-              <p className="mt-3 text-gray-400">📍 Claymont, DE</p>
+              <p className="mt-3 text-gray-400">📍 United States </p>
               <a
                 href="mailto:keerthik2700@gmail.com"
                 className="mt-6 inline-block bg-indigo-600 hover:bg-indigo-700 text-white font-medium px-6 py-3 rounded-lg transition"
