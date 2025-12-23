@@ -66,7 +66,7 @@ export default function App() {
               <h2 className="text-5xl font-extrabold bg-gradient-to-r from-indigo-400 to-purple-500 bg-clip-text text-transparent">
                 Software Developer
               </h2>
-              <p className="mt-3 text-gray-400">📍 United States </p>
+              <p className="mt-3 text-gray-400">📍 United States | Open to Reloaction</p>
               <a
                 href="mailto:keerthik2700@gmail.com"
                 className="mt-6 inline-block bg-indigo-600 hover:bg-indigo-700 text-white font-medium px-6 py-3 rounded-lg transition"
@@ -78,7 +78,7 @@ export default function App() {
              {/* ===== Profile Summary ===== */}
               <div className="mt-10 max-w-6xl mx-auto px-6">
                 <p className="text-lg text-gray-300 leading-relaxed text-justify">
-                  I am a <b>graduate student at Wilmington University</b> with <b>1.5+ years of professional 
+                  I am a <b>graduate student at Wilmington University</b> with <b>2 years of professional 
                   experience</b> in software development. I have built <b>frontend applications</b> with 
                   <b> React and modern UI frameworks</b>, ensuring responsive and intuitive user experiences. 
                   On the backend, I specialize in <b>Flask and Node.js</b>, where I’ve designed and optimized 
@@ -110,26 +110,62 @@ export default function App() {
           <h3 className="text-3xl font-bold text-center mb-6">Skills</h3>
           <div className="flex flex-wrap justify-center gap-3">
             {[
-              "React.js",
-              "React Native",
-              "JavaScript",
-              "TypeScript",
-              "Python (Flask)",
-              "C++",
-              "DSA",
-              "System Design",
-              "Operating Systems",
-              "MySQL",
-              "PostgreSQL",
-              "AWS (EC2, S3)",
-              "CI/CD (GitHub Actions)",
-              "Redux",
-              "REST APIs",
-              "Node.js",
-              "Git / GitHub",
-              "HTML5 / CSS3",
-              "Agile / Scrum",
-            ].map((skill, idx) => (
+                    // Core Engineering
+                    "Full-Stack Development",
+                    "Backend Engineering",
+                    "Object-Oriented Programming (OOP)",
+                    "Data Structures & Algorithms",
+                    "System Design",
+                    "Software Development Life Cycle (SDLC)",
+
+                    // Languages
+                    "Python",
+                    "JavaScript (ES6+)",
+                    "TypeScript",
+                    "C++",
+                    "Java",
+
+                    // Frontend
+                    "React.js",
+                    "React Native",
+                    "Redux",
+                    "HTML5",
+                    "CSS3",
+                    "Responsive Web Design",
+
+                    // Backend & APIs
+                    "Python (Flask)",
+                    "REST API Design & Development",
+                    "API Design",
+                    "Microservices",
+
+                    // Databases
+                    "SQL",
+                    "MySQL",
+                    "PostgreSQL",
+                    "Database Design",
+                    "Query Optimization",
+
+                    // Cloud & DevOps
+                    "Amazon Web Services (AWS)",
+                    "AWS EC2",
+                    "AWS S3",
+                    "CI/CD Pipelines",
+                    "GitHub Actions",
+                    "Docker",
+                    "Linux / Unix",
+
+                    // Tools & Practices
+                    "Git / GitHub",
+                    "Postman",
+                    "Agile / Scrum",
+                    "Debugging & Troubleshooting",
+                    "Performance Optimization",
+
+                    // AI (Keep minimal but credible)
+                    "Applied Machine Learning",
+                    "Computer Vision (OpenCV)"
+                  ].map((skill, idx) => (
               <span
                 key={idx}
                 className="bg-indigo-600 text-white px-4 py-2 rounded-full shadow-md hover:bg-indigo-700 transition"
