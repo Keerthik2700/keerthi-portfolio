@@ -153,7 +153,7 @@ export default function App() {
                   Contact
                 </a>
                 <a
-                  href="https://drive.google.com/file/d/1Xq4aR11jgAuX69XKccfa84405etzf-54/view"
+                  href="https://drive.google.com/file/d/1Cg_3qtuaiau7ZrdKCK_yrGeXc-k2UGkN/view?usp=sharing"
                   target="_blank"
                   rel="noreferrer"
                   className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-neutral-900 text-white hover:bg-neutral-800 transition text-sm"
